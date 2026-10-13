@@ -1,0 +1,4 @@
+path,label,group_id,rpm
+raw/normal/run01.wav,normal,session01,300
+raw/tooth_fault/run02.wav,tooth_fault,session02,300
+raw/bearing_fault/run03.wav,bearing_fault,session03,300
